@@ -1,3 +1,7 @@
 import numpy as np
 
-print("Hello World")
+x= 10
+i = 1
+for i in range(x):
+    print("Hello World", i)
+ 
